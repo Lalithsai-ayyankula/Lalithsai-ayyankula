@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Ayyankula%20Lalith%20Sai%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Research%20Engineer%20Intern%20%7C%20LLMs%20%26%20Agentic%20AI%20%7C%20Speech%20%26%20NLP&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Lalith%20Sai%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Research%20Engineer%20Intern&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://linkedin.com/in/YOUR-LINKEDIN">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -15,7 +15,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+multistage+LLM+%26+Speech+AI+pipelines;Researching+ASR+at+IIIT+Hyderabad's+LTRC;RAG+%7C+Agentic+AI+%7C+Computer+Vision+%7C+NLP;Turning+research+into+production-ready+APIs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Building+multistage+LLM+%26+Speech+AI+pipelines;Researching+ASR+at+IIIT+Hyderabad's+LTRC;RAG+%7C+Agentic+AI+%7C+Computer+Vision;Turning+research+into+production-ready+APIs" alt="Typing SVG" />
 
 <br/>
 
@@ -176,13 +176,15 @@ Two fused CV pipelines — vehicle-density detection + smog estimation (Laplacia
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Lalithsai-ayyankula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lalithsai-ayyankula&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lalithsai-ayyankula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=Lalithsai-ayyankula&theme=tokyonight&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalithsai-ayyankula&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lalithsai-ayyankula&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lalithsai-ayyankula&theme=tokyo-night&hide_border=true" width="49%"/>
 
 </div>
+
+> 📌 **Note:** these stats widgets are powered by free public services that occasionally go down or rate-limit. If any image shows broken, just refresh the page after a minute — it's not an issue with your file.
 
 <br/>
 
