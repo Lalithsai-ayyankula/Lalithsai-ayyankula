@@ -195,10 +195,10 @@ Two CV pipelines — vehicle-density detection and smog estimation (Laplacian, H
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-master-lalithsai-ayyankulas-projects.vercel.app/api?username=Lalithsai-ayyankula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" width="49%"/>
+<img src="https://github-readme-stats-one-chi-rx2ldlbqoo.vercel.app/api?username=Lalithsai-ayyankula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" width="49%"/>
 <img src="https://streak-stats.demolab.com?user=Lalithsai-ayyankula&theme=tokyonight&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-stats-git-master-lalithsai-ayyankulas-projects.vercel.app/api/top-langs/?username=Lalithsai-ayyankula&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%"/>
+<img src="https://github-readme-stats-one-chi-rx2ldlbqoo.vercel.app/api/top-langs/?username=Lalithsai-ayyankula&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lalithsai-ayyankula&theme=tokyo-night&hide_border=true" width="49%"/>
 
 </div>
