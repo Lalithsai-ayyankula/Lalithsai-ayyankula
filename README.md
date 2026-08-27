@@ -1,129 +1,204 @@
-<h1 align="center">Hi 👋, I'm Ayyankula Lalith Sai Kumar</h1>
-<h3 align="center">AI Research Engineer Intern • LLMs & Agentic AI • RAG & Retrieval Systems • NLP & Speech AI</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:saiayyankulaa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Location-Kakinada,%20Andhra%20Pradesh-informational?style=for-the-badge"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Ayyankula%20Lalith%20Sai%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Research%20Engineer%20Intern%20%7C%20LLMs%20%26%20Agentic%20AI%20%7C%20Speech%20%26%20NLP&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-🎓 B.Tech CSE (AI & ML), KIET Group of Institutions, JNTUK — Expected Oct 2027<br/>
-🔬 Research Intern — Speech Processing @ LTRC, IIIT Hyderabad<br/>
-📍 Open to relocation — available for full-time, work-from-office roles in Hyderabad
-</p>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:saiayyankulaa@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Lalithsai-ayyankula">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/badge/Location-Kakinada,%20Andhra%20Pradesh-blueviolet?style=for-the-badge"/>
 
----
+<br/><br/>
 
-### 👨‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+multistage+LLM+%26+Speech+AI+pipelines;Researching+ASR+at+IIIT+Hyderabad's+LTRC;RAG+%7C+Agentic+AI+%7C+Computer+Vision+%7C+NLP;Turning+research+into+production-ready+APIs" alt="Typing SVG" />
 
-I'm an AI/ML engineer building end-to-end AI systems — from multistage LLM/speech pipelines and retrieval systems to transformer-based speech classification and computer vision applications. Currently conducting speech-processing research at **IIIT Hyderabad's LTRC**, working on Automatic Speech Recognition (ASR) and multilingual spoken language technologies.
+<br/>
 
-I care about **production-oriented AI** — not just training models, but shipping them behind real APIs with reproducible evaluation and clean pipeline orchestration.
+![Profile Views](https://komarev.com/ghpvc/?username=Lalithsai-ayyankula&color=00c6ff&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/Lalithsai-ayyankula?style=for-the-badge&color=blueviolet&labelColor=181717)
 
-- 🔭 Currently researching: ASR & multilingual speech technologies at LTRC, IIIT Hyderabad
-- 🌱 Currently exploring: Agentic AI, RAG systems, LLM fine-tuning
-- 💬 Ask me about: Speech AI (HuBERT, Whisper, Wav2Lip), Computer Vision, or AI pipeline design
-- 📫 Reach me: **saiayyankulaa@gmail.com**
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
 
-### 🛠️ Tech Stack
+## 🧬 About Me
+
+```yaml
+role: AI/ML Engineer & Speech-AI Researcher
+current_focus: ASR + Multilingual Spoken Language Technologies @ LTRC, IIIT Hyderabad
+education: B.Tech CSE (AI & ML), KIET Group of Institutions, JNTUK — Expected Oct 2027
+status: Open to relocation • Available for full-time WFO roles in Hyderabad
+philosophy: "Ship real systems — pipelines that survive production, not just notebooks"
+```
+
+- 🔭 **Currently researching** → ASR & multilingual speech technologies at LTRC, IIIT Hyderabad
+- 🌱 **Currently exploring** → Agentic AI, RAG systems, LLM fine-tuning
+- 🧠 **Core strength** → orchestrating multistage AI pipelines (ASR → translation → synthesis → sync) with clean I/O contracts
+- 💬 **Ask me about** → HuBERT / Whisper speech pipelines, RAG architecture, or production API design for ML models
+- ⚡ **Fun fact** → 1st Runner-Up, Humorous Speech Contest (Toastmasters) — I debug models by day, deliver punchlines by night
+
+<br/>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
 
 **Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,mysql&theme=dark" />
 
-**LLMs & GenAI**
-![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-412991?style=flat-square)
-![RAG](https://img.shields.io/badge/-RAG%20Systems-412991?style=flat-square)
-![Fine--tuning](https://img.shields.io/badge/-Fine--tuning-412991?style=flat-square)
-
-**ML & Deep Learning**
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+**LLMs, GenAI & ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/-Prompt%20Engineering-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-RAG%20Systems-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Fine--tuning-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Agentic%20AI-412991?style=for-the-badge"/>
 
 **Speech & NLP**
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-`HuBERT` `Whisper` `mT5` `Coqui TTS` `Wav2Lip` `MFCC` `Librosa`
+<br/>
+<img src="https://img.shields.io/badge/-HuBERT-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Whisper-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/-mT5-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Coqui%20TTS-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Wav2Lip-FF4088?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Librosa-8A2BE2?style=for-the-badge"/>
 
 **Computer Vision**
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-`YOLOv8` `FaceNet`
+<br/>
+<img src="https://skillicons.dev/icons?i=opencv&theme=dark" />
+<img src="https://img.shields.io/badge/-YOLOv8-111F68?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-FaceNet-00A67E?style=for-the-badge"/>
 
-**Backend & APIs**
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+**Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,mongodb,mysql,postgres&theme=dark" />
 
 **Tools & Cloud**
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/-Gradio-F97316?style=flat-square&logo=gradio&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,gcp,kubernetes&theme=dark" />
+<img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white"/>
 
----
+</div>
 
-### 🚀 Featured Projects
+<br/>
 
-#### 🎙️ [Automatic Dubbing System for Educational Videos](#)
-`Whisper` `mT5` `Coqui TTS` `Wav2Lip`
-A 4-stage sequential AI pipeline — ASR → Translation → Speech Synthesis → Lip Sync — enabling automated multilingual video dubbing for Hindi, Konkani, and Maithili, with careful handling of inter-model I/O contracts and error propagation for reliability.
+## 🚀 Featured Projects
 
-#### 🗣️ [Accent-Based Native Language Identification](#)
-`HuBERT` `PyTorch` `Scikit-learn` `Librosa`
-A two-stage speech classification system (MFCC+CNN baseline vs. HuBERT deep embeddings) achieving **87% accuracy** on Indian language accent identification, with layer-wise benchmarking across HuBERT's transformer layers.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-#### 🎥 [Real-Time Face Recognition Attendance System](#)
-`FaceNet` `OpenCV` `MongoDB` `FastAPI`
-A production-style AI service achieving **94% detection accuracy**, exposed via REST APIs with a MongoDB data layer — reducing manual attendance processing effort by **~85%**.
+### 🎙️ Automatic Dubbing System
+**Whisper → mT5 → Coqui TTS → Wav2Lip**
 
-#### 🌫️ [School Gate Air Quality Monitor](#)
-`YOLOv8` `OpenCV` `Streamlit` `Flask`
-A real-time CV system fusing YOLOv8 traffic detection and image-analysis-based smog detection into a weighted Pollution Index, served via a live dashboard with demo/RTSP support.
+A 4-stage sequential AI pipeline for multilingual educational video dubbing — Hindi, Konkani, and Maithili — with careful handling of inter-model I/O contracts and error propagation for a reliable, reproducible system.
 
-> Update the `#` links above with your actual repo URLs.
+`ASR` `Translation` `TTS` `Lip-Sync`
 
----
+</td>
+<td width="50%" valign="top">
 
-### 💼 Experience
+### 🗣️ Accent-Based Language ID
+**HuBERT → PyTorch → Scikit-learn**
 
-| Role | Organization | Duration |
-|---|---|---|
-| Research Intern — Speech Processing | LTRC, IIIT Hyderabad | Jun 2026 – Present |
-| AI Intern (Summer of AI) | VISWAM.AI (Meta Swecha) | May 2025 – Jul 2025 |
-| AI/ML Virtual Intern | EduSkills, AICTE (Google for Developers) | Jan 2025 – Mar 2025 |
-| Student Intern | Edunet Foundation (Industry 4.0 / AI) | Feb 2025 – Apr 2025 |
+Two-stage speech classifier (MFCC+CNN baseline vs. HuBERT deep embeddings) hitting **87% accuracy** on Indian language accent identification, with layer-wise benchmarking across HuBERT's transformer stack.
 
----
+`Speech Classification` `Transfer Learning`
 
-### 🏆 Certifications & Achievements
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-- 🥇 Google Cloud Skill Badge — Implement CI/CD Pipelines on Google Cloud
-- 🥇 Google Cloud Skill Badge — Manage Kubernetes in Google Cloud
-- 📜 AI/ML Virtual Internship Certification — EduSkills, AICTE, Google for Developers
-- 📜 Summer of AI Internship Certification — VISWAM.AI, Meta, Swecha
-- 🎤 1st Runner-Up — Humorous Speech Contest, Toastmasters International
-- 🏅 Team Lead — Digital Summit Citizen Hackathon 2025 (team of 5)
-- 🙋 Participant — Fusion AI Summit 2025
+### 🎥 Face Recognition Attendance
+**FaceNet → OpenCV → MongoDB → FastAPI**
 
----
+Production-style AI service, **94% detection accuracy** across varying lighting, exposed via REST APIs — cutting manual attendance effort by **~85%**.
 
-### 📊 GitHub Stats
+`Computer Vision` `Backend API`
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lalithsai-ayyankula&show_icons=true&theme=default"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalithsai-ayyankula&layout=compact"/>
-</p>
+</td>
+<td width="50%" valign="top">
 
----
+### 🌫️ Air Quality Monitor
+**YOLOv8 → OpenCV → Streamlit → Flask**
 
-<p align="center">
-  <i>Building practical AI solutions for real-world problems — one pipeline at a time.</i>
-</p>
+Two fused CV pipelines — vehicle-density detection + smog estimation (Laplacian, HSV, contrast) — into a live weighted Pollution Index dashboard with RTSP/demo support.
+
+`YOLOv8` `Real-Time CV`
+
+</td>
+</tr>
+</table>
+
+> 💡 Replace project titles with links to your repos once pushed: `[Title](https://github.com/Lalithsai-ayyankula/repo-name)`
+
+<br/>
+
+## 💼 Experience Timeline
+
+```
+2026 ─┬─ Research Intern, Speech Processing — LTRC, IIIT Hyderabad         [Jun 2026 → Present]
+      │
+2025 ─┼─ AI Intern (Summer of AI) — VISWAM.AI (Meta Swecha)                [May → Jul 2025]
+      ├─ Student Intern — Edunet Foundation (Industry 4.0 / AI)            [Feb → Apr 2025]
+      └─ AI/ML Virtual Intern — EduSkills, AICTE (Google for Developers)   [Jan → Mar 2025]
+```
+
+<br/>
+
+## 🏆 Certifications & Achievements
+
+<div align="center">
+
+| 🏅 | Achievement |
+|:---:|:---|
+| ☁️ | Google Cloud Skill Badge — Implement CI/CD Pipelines on Google Cloud |
+| ☁️ | Google Cloud Skill Badge — Manage Kubernetes in Google Cloud |
+| 📜 | AI/ML Virtual Internship Certification — EduSkills, AICTE, Google for Developers |
+| 📜 | Summer of AI Internship Certification — VISWAM.AI, Meta, Swecha |
+| 🎤 | 1st Runner-Up — Humorous Speech Contest, Toastmasters International |
+| 🧑‍💼 | Team Lead — Digital Summit Citizen Hackathon 2025 (team of 5) |
+| 🎪 | Participant — Fusion AI Summit 2025 |
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Lalithsai-ayyankula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lalithsai-ayyankula&theme=tokyonight&hide_border=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalithsai-ayyankula&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lalithsai-ayyankula&theme=tokyo-night&hide_border=true" width="49%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🎯 Let's Connect & Build Something
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:saiayyankulaa@gmail.com"><img src="https://img.shields.io/badge/-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+
+<i>Building practical AI solutions for real-world problems — one pipeline at a time. 🚀</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+
+</div>
