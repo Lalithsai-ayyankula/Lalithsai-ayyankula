@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=230&section=header&text=Ayyankula%20Lalith%20Sai%20Kumar&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Research%20Engineer%20%7C%20LLMs%20%2B%20Agentic%20AI%20%7C%20Speech%20%26%20NLP&descAlignY=54&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=230&section=header&text=Ayyankula%20Lalith%20Sai%20Kumar&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Research%20Engineer%20%E2%80%A2%20LLMs%20%2B%20Agentic%20AI%20%E2%80%A2%20Speech%20and%20NLP&descAlignY=54&descSize=17" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=110&lines=Researching+ASR+%26+Multilingual+Speech+at+IIIT+Hyderabad's+LTRC;Orchestrating+multistage+LLM+%2F+Speech+AI+pipelines;RAG+%7C+Agentic+AI+%7C+Computer+Vision+%7C+NLP;From+research+notebooks+to+production+APIs" alt="Typing SVG"/>
 
@@ -216,7 +216,7 @@ Two CV pipelines — vehicle-density detection and smog estimation (Laplacian, H
 </div>
 
 <blockquote align="center">
-📌 Free public stat services can occasionally rate-limit or go down — if a widget above shows broken, just refresh after a minute.
+📌 The public github-readme-stats.vercel.app instance has been intermittently paused/rate-limited since early 2026 — if the analytics cards above show broken, that's the shared service, not this file. Consider self-hosting your own instance for reliability (fork anuraghazra/github-readme-stats → deploy to your own Vercel).
 </blockquote>
 
 <br/>
