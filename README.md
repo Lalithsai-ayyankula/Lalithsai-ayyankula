@@ -195,15 +195,11 @@ Two CV pipelines — vehicle-density detection and smog estimation (Laplacian, H
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lalithsai-ayyankula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" width="49%"/>
+<img src="https://github-readme-stats-git-master-lalithsai-ayyankulas-projects.vercel.app/api?username=Lalithsai-ayyankula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" width="49%"/>
 <img src="https://streak-stats.demolab.com?user=Lalithsai-ayyankula&theme=tokyonight&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalithsai-ayyankula&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%"/>
+<img src="https://github-readme-stats-git-master-lalithsai-ayyankulas-projects.vercel.app/api/top-langs/?username=Lalithsai-ayyankula&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lalithsai-ayyankula&theme=tokyo-night&hide_border=true" width="49%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Lalithsai-ayyankula&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
 
 </div>
 
@@ -216,7 +212,7 @@ Two CV pipelines — vehicle-density detection and smog estimation (Laplacian, H
 </div>
 
 <blockquote align="center">
-📌 The public github-readme-stats.vercel.app instance has been intermittently paused/rate-limited since early 2026 — if the analytics cards above show broken, that's the shared service, not this file. Consider self-hosting your own instance for reliability (fork anuraghazra/github-readme-stats → deploy to your own Vercel).
+📌 Stats & top-langs cards are served from a self-hosted instance for reliability. The streak and activity-graph widgets still rely on other free public services, which can occasionally rate-limit or go down — if either shows broken, just refresh after a minute.
 </blockquote>
 
 <br/>
