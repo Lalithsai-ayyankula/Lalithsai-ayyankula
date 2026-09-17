@@ -222,7 +222,7 @@ Two CV pipelines — vehicle-density detection and smog estimation (Laplacian, H
 ## 🎯 Let's Build Something
 
 <a href="https://lalithsaiai.vercel.app/"><img src="https://img.shields.io/badge/-View%20Portfolio-00C6FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/ayyankulaa-lalith-sai-64957b292"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:saiayyankulaa@gmail.com"><img src="https://img.shields.io/badge/-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
